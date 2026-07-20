@@ -1,0 +1,21 @@
+{
+  "question_id": "REPLACE_WITH_POSTGRES_QUESTION_UUID",
+  "verified_by": "Teacher name and verification date",
+  "resources": [
+    {
+      "filename": "Data.txt",
+      "source_path": "./official-insert-files/Data.txt"
+    }
+  ],
+  "test_cases": [
+    {
+      "name": "official normal-data case",
+      "stdin": "",
+      "arguments": [],
+      "expected_stdout": "REPLACE_WITH_VERIFIED_EXPECTED_OUTPUT\n",
+      "marks_available": 2,
+      "comparison_mode": "trim_trailing",
+      "expected_source_chunk_id": "REPLACE_WITH_REVIEWED_MARK_SCHEME_CHUNK_UUID"
+    }
+  ]
+}

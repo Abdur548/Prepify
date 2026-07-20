@@ -1,0 +1,24 @@
+{
+  "past_paper_questions": [
+    {
+      "question_id": "replace-with-ingested-question-id",
+      "answer_surface": "written",
+      "display_text": "Reviewed question text for delivery to the student.",
+      "subparts": [
+        {
+          "label": "(a)",
+          "marks_available": 2,
+          "prompt": "Reviewed sub-part text."
+        }
+      ],
+      "resources": [],
+      "assessment_objective_marks": {
+        "AO1": 2
+      },
+      "requires_resources": false,
+      "delivery_authorized": true,
+      "verified_by": "Teacher or reviewer name"
+    }
+  ],
+  "validated_mcqs": []
+}

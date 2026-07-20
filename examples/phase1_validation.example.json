@@ -1,0 +1,13 @@
+{
+  "dataset_name": "9618 Paper 4 held-out officially marked responses",
+  "submissions": [
+    {
+      "question_id": "REPLACE_WITH_POSTGRES_QUESTION_UUID",
+      "language": "python",
+      "source_path": "./held-out/submission-001.py",
+      "official_mark": 2,
+      "provenance": "REPLACE_WITH_SOURCE_AND_OFFICIAL_MARK_REFERENCE",
+      "held_out": true
+    }
+  ]
+}

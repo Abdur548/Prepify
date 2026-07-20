@@ -1,0 +1,31 @@
+{
+  "paper_number": 3,
+  "title": "Paper 3 Advanced Theory",
+  "time_limit_minutes": 90,
+  "total_marks": 4,
+  "topic_weights": {
+    "Artificial Intelligence": 0.5,
+    "Recursion": 0.5
+  },
+  "assessment_objective_weights": {
+    "AO1": 0.5,
+    "AO2": 0.5
+  },
+  "slots": [
+    {
+      "answer_surface": "written",
+      "marks": 2,
+      "count": 2,
+      "allowed_source_types": ["past_paper"]
+    }
+  ],
+  "minimum_source_series": 2,
+  "source_question_paper_ids": [
+    "replace-with-reviewed-s23-question-paper-id",
+    "replace-with-reviewed-w24-question-paper-id"
+  ],
+  "source_chunk_ids": [
+    "replace-with-reviewed-question-block-id"
+  ],
+  "verified_by": "Teacher or reviewer name"
+}
